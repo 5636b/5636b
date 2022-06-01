@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Laravel
 - 💬 Ask me about everything,always and everywhere.
-- 📫 How to reach me: zbs@discente.ifpe.edu
+- 📫 How to reach me: mush.comushroomhead@hotmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I forgot my name
 
