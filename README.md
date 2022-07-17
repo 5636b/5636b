@@ -1,4 +1,5 @@
-    We don't know each other, but I'll introduce myself. My dream for the near future is: to work as a DEV in Auckland or Tokyo.
+    We don't know each other, but I'll introduce myself. My dream for the near future is: to 
+    work as a DEV in Auckland or Tokyo.
 
 - 🌱 I’m currently learning Laravel
 - 💬 Ask me about everything,always and everywhere.
