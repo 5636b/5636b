@@ -111,3 +111,5 @@ Olá, tudo bom? Meu nome é Zaqueu Batista e sou natural de Pernambuco. Atualmen
   />
 
 </p>
+
+![snake gif](https://github.com/5636b/5636b/blob/output/github-contribution-grid-snake.svg)
