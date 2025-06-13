@@ -102,7 +102,10 @@ Olá, tudo bom? Meu nome é Zaqueu Batista e sou natural de Pernambuco. Atualmen
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=5636b&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
+    
+<br>
+<br>
+    
 <img 
       align="left" 
       alt="GitHub Stats" 
